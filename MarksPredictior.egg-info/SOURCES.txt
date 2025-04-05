@@ -1,0 +1,7 @@
+README.md
+setup.py
+MarksPredictior.egg-info/PKG-INFO
+MarksPredictior.egg-info/SOURCES.txt
+MarksPredictior.egg-info/dependency_links.txt
+MarksPredictior.egg-info/requires.txt
+MarksPredictior.egg-info/top_level.txt
